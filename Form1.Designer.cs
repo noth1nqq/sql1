@@ -51,9 +51,8 @@
             label2.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 204);
             label2.Location = new Point(45, 22);
             label2.Name = "label2";
-            label2.Size = new Size(17, 25);
+            label2.Size = new Size(0, 25);
             label2.TabIndex = 0;
-            label2.Text = "`";
             // 
             // panel2
             // 
